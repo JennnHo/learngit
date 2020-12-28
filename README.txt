@@ -1,4 +1,4 @@
 This is the first commit.
-Changes
+Creating a new branch is quick AND simple.
 
  
